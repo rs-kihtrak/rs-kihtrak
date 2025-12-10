@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karthi</h1>
-<h3 align="center">DevOps | Cloud | Kubernetes | Automation Engineer</h3>
+<h1 align="center">Hi 👋, I'm KarthiK</h1>
+<h3 align="center">DevOps | Automation Engineer | CICD | Cloud Migration | Kubernetes </h3>
 
 ---
 
