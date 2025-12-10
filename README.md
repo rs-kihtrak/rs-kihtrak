@@ -82,7 +82,7 @@ I’m passionate about:
 - Nginx | HAProxy | Istio Ingress  
 
 ### 🧑‍🤝‍🧑 Collaboration
-- Jira | Confluence | Slack | Notion  
+- Jira | Confluence | Slack | Notion
 
 ---
 
@@ -93,32 +93,6 @@ I’m passionate about:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs-kihtrak&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
----
-
-## 🧩 Featured DevOps Projects (Suggested to Add)
-
-You can pin these once created:
-
-### 🔹 **1. Kubernetes Deployment Repository**
-- Sample microservices  
-- Deployments, Services, Ingress  
-- Helm charts  
-- GitOps-ready Manifests (ArgoCD)
-
-### 🔹 **2. Terraform Modules**
-- GCP VPC + Subnets  
-- GKE cluster creation  
-- Azure AKS provisioning  
-- Reusable modules
-
-### 🔹 **3. CI/CD Pipelines**
-- Jenkins pipeline-as-code  
-- GitHub Actions: Docker build & deploy  
-- GitLab CI: Multi-stage pipeline  
-
-### 🔹 **4. Monitoring Stack**
-- Prometheus + Grafana dashboards  
-- Loki + Promtail logging setup  
 
 ---
 
